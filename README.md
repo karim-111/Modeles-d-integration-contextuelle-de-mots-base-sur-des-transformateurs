@@ -1,4 +1,4 @@
-# Mod-les-d-int-gration-contextuelle-de-motsbas-s-sur-des-transformateurs
+# Modeles d'intégration contextuelle de mots bassé sur des transformateurs
 
  Travaux  réalisés  
 Les jeux de données proposés sont utilisés pour étudier les représentations textuelles vues en cours, à savoir Word2vec, GloVe1, 
